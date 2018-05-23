@@ -1,5 +1,6 @@
 function theBeatlesPlay(arrMusicians, arrInstruments){
   var tempArray = [];
   
-  for()
+  var i = 0;
+    for()
 }
